@@ -37,7 +37,7 @@ css: unocss
 
 安装 .net sdk  
 https://dotnet.microsoft.com/en-us/download/dotnet/6.0  
-<img src="https://raw.githubusercontent.com/Dr-ZHUIM/Xinjiang_md/main/public/10.jpg" style="width:800px"/>
+<img src="https://raw.githubusercontent.com/Dr-ZHUIM/Xinjiang_md/main/public/10.jpg" style="width:800px;margin-top:40px"/>
 
 ---
 
