@@ -33,6 +33,14 @@ css: unocss
 
 ---
 
+## 操作前置
+
+安装 .net sdk  
+https://dotnet.microsoft.com/en-us/download/dotnet/6.0  
+<img src="https://raw.githubusercontent.com/Dr-ZHUIM/Xinjiang_md/main/public/10.jpg" style="width:800px"/>
+
+---
+
 ## 第一步：打开控制面板
 
 <img src="https://raw.githubusercontent.com/Dr-ZHUIM/Xinjiang_md/main/public/1.jpg" style="width:800px"/>
